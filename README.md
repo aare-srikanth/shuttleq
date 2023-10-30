@@ -1,0 +1,1 @@
+# shuttleq access permissions
